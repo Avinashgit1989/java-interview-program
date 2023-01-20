@@ -1,4 +1,4 @@
-package com.codingstar.numbers;
+package com.interview.programs.numbers;
 
 import java.util.Scanner;
 import java.util.function.Function;
