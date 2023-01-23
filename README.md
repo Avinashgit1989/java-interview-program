@@ -22,6 +22,12 @@ All important programs for java interview.
   * second approach to remove the vowel from given string
   * Using regex remove the vowel from given string.
   * Count Vowel and consonant of given String.
-* Write a program to count the vowel and consonant from teh given string.
-* Write a program to count word of given string.
 * Write a program to Check given String is palindrome or not.
+* Write a program to count word of given string.
+# _Matrix_
+* Write a program to Print a matrix.
+* write a program to sum of two matrix.
+* Write a program to Print right diagonal of matrix.
+* Write a program to print secondary diagonal of matrix.
+* Write a program to print transpose matrix.
+* 
